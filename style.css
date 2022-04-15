@@ -1,0 +1,73 @@
+
+.navbar{
+    background-color: black;
+    height: 4rem;
+}
+.logo{
+    height: 2.5rem;
+}
+.navbar-toggler-icon{
+
+    background-color: rgb(175, 174, 172);
+}
+
+.section3{
+    
+    background-color: rgb(252, 248, 248);
+    
+  width: 100%;
+}
+#text1{
+   
+    color: crimson;
+}
+.section4{
+    
+    background-color: rgb(252, 248, 248);
+    
+  width: 100%;
+}
+.section5{
+   
+    background-color: rgb(252, 248, 248);
+    
+  width: 100%;
+}
+.section6{
+    
+    background-color: rgb(252, 248, 248);
+    
+  width: 100%;
+}
+
+#a1{
+    text-decoration: none;
+}
+
+.section7{
+    background-color: rgb(252, 248, 248);
+    
+
+}
+#button{
+    text-align: center;
+
+}
+.section8{
+    background-color: rgb(252, 248, 248);
+    
+}
+
+    
+
+#icon{
+    color: white;
+
+}
+
+
+#foot{
+    margin-top: -3rem
+}
+
+ 
